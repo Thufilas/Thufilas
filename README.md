@@ -19,7 +19,7 @@ Minha paixão por **automação e infraestrutura como código (IaC)** me levou �
 
 | Área | Tecnologias |
 | :--- | :--- |
-| **Infraestrutura como Código (IaC)** | Terraform, CloudFormation (AWS) |
+| **Infraestrutura como Código (IaC)** | Terraform, CloudFormation (AWS) |
 | **Containerização** | Docker, Kubernetes (Minikube/K3s) |
 | **CI/CD** | GitHub Actions, Jenkins |
 | **Cloud Computing** | AWS (EC2, S3, IAM) |
